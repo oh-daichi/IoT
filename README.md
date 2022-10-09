@@ -1,46 +1,32 @@
 # IoT
-# Name（リポジトリ/プロジェクト/OSSなどの名前）
+# 1．このgithubについて
 
-分かりやすくてカッコイイ名前をつける（今回は"hoge"という名前をつける）
+githubの使い方について学びたく，githubを使用してスクリプトファイルを共有使用と思います．
+お付き合いいただけたら，幸いです．
 
-"hoge"が何かを簡潔に紹介する
+# 2．使用方法について
 
-# DEMO
+ディレクトリ名「program」内に全てのスクリプトファイルを収納している．
+使用したファイルを適宜，使って欲しい．
+ファイルの説明については各ディレクトリ内に記載してある．
 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+# 3．説明例
 
-# Features
-
-"hoge"のセールスポイントや差別化などを説明する
-
-# Requirement
-
-"hoge"を動かすのに必要なライブラリなどを列挙する
-
-* huga 3.5.2
-* hogehuga 1.0.2
-
-# Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
+1行目
 
 ```bash
-pip install huga_package
+print("Hello World")
 ```
 
-# Usage
-
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+Hello Worldを変更すると出力される内容が変更される
 
 # Note
 
-注意点などがあれば書く
+注意点など
+
+# 参考文献
+
+各スクリプトの説明文に記載
 
 # Author
 
